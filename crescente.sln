@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crescente", "crescente\crescente.csproj", "{A5932386-8733-4305-82C4-31A621A338A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5932386-8733-4305-82C4-31A621A338A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5932386-8733-4305-82C4-31A621A338A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5932386-8733-4305-82C4-31A621A338A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5932386-8733-4305-82C4-31A621A338A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB9DDC6-01D1-4488-A6E7-FD84EC69B20E}
+	EndGlobalSection
+EndGlobal
